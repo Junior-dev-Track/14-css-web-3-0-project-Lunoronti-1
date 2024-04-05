@@ -1,20 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8fMl3IN0)
+
 # Web 3.0 Project
 
-| Challenge Parameters       | Challenge Details  |
-| :------------------------- |:-------------------|
-| Create a public repository | `Web-3.0` 		  |
-| Challenge type             | Consolidation      |
-| Duration                   | 2 days             |
-| Team                       | Solo           	  |
-
+| Challenge Parameters       | Challenge Details |
+| :------------------------- | :---------------- |
+| Create a public repository | `Web-3.0`         |
+| Challenge type             | Consolidation     |
+| Duration                   | 2 days            |
+| Team                       | Solo              |
 
 ## Learning objectives
 
 - Write meaningful, semantically correct HTML
 - Use modern positioning techniques using the `grid` or `flexbox` model
 - Create a "pixel-perfect" integration from a given wireframe
-
 
 ## The mission
 
@@ -24,7 +23,7 @@ For this project, we will tackle a Frontend Mentor design.
 
 You'll be led to use the knowledge you acquired on CSS (the basics, flex, grid and media queries) to do a perfectly responsive website.
 
-The mission is simple, you have to perfectly reproduce this design : **[FIGMA FILE](https://www.figma.com/file/87gRFe00lSsdbnQx83jufY/FLEX-GRID-RESPONSIVE?type=design&node-id=0%3A1&mode=dev)**
+The mission is simple, you have to perfectly reproduce this design :
 
 The graphic designer gave you all the elements so you can code the thing yourself.
 
@@ -45,12 +44,15 @@ Don't forget to check my general usefull tips.
 - Make hover animation
 - Look for animation opportunities
 
-### Test 
-Please check every details and 
-- test your code with **a validator**. 
+### Test
+
+Please check every details and
+
+- test your code with **a validator**.
 - Generate a report with [Lighthouse](https://developers.google.com/web/tools/lighthouse) & try to improve it as mush as you can.
 
 ### Github Page
-At the end of the project, you have to publish your page as a Github page. 
+
+At the end of the project, you have to publish your page as a Github page.
 
 ![the world of tomorrow](https://media.tenor.co/images/1fcea016af432389e7b444ae3b95abf2/raw)
